@@ -4,10 +4,18 @@
     <title>所有文章 - LittleY&#39;s box</title>
     <link>https://Youshiquming.github.io/posts/</link>
     <description>LittleY&#39;s box</description>
-    <generator>Hugo 0.138.0 &amp; FixIt v0.3.15</generator>
+    <generator>Hugo 0.139.0 &amp; FixIt v0.3.15</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Nov 2024 11:34:32 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 04:32:34 +0000</lastBuildDate>
     <atom:link href="https://Youshiquming.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://Youshiquming.github.io/p/test/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://Youshiquming.github.io/p/test/</guid>
+      <category domain="https://Youshiquming.github.io/categories/test/">Test</category>
+      <description>&lt;p&gt;1111&lt;/p&gt;</description>
+    </item>
     <item>
       <title>hugo搭建博客</title>
       <link>https://Youshiquming.github.io/p/hugo/</link>
