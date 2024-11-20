@@ -6,7 +6,7 @@
     <description>LittleY&#39;s box</description>
     <generator>Hugo 0.139.0 &amp; FixIt v0.3.15</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Nov 2024 04:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:07:21 +0000</lastBuildDate>
     <atom:link href="https://Youshiquming.github.io/collections/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo搭建博客</title>
@@ -14,7 +14,7 @@
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://Youshiquming.github.io/p/hugo/</guid>
       <category domain="https://Youshiquming.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/">博客搭建</category>
-      <description>&lt;p&gt;使用hugo+FixIt主题&lt;/p&gt;</description>
+      <description>&lt;p&gt;使用hugo+FixIt主题，内容待完善&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
